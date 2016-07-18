@@ -8,6 +8,7 @@ Based on Qt 5.5.1 (MSVC 2013, 32 bit)
 https://www.qt.io/download/
 
 **Guide**
+
 Code uses object oriented design in C++. The design patterns used include:
 
 1. Singleton
@@ -22,4 +23,5 @@ The configuration file can be updated, more celestial bodies can be added. You m
 - clusters contain: galaxies and other clusters
 
 **Author**
+
 Ryan Michael Thomas
